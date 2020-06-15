@@ -3,9 +3,10 @@ http://gefrorenemango.dothome.co.kr/
 
 
 
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/magazine.jpg)](https://mdbootstrap.com/freebies/jquery/magazine/)
+
 
 # Bootstrap 4 & Material Design - Magazine Template 
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/magazine.jpg)](https://mdbootstrap.com/freebies/jquery/magazine/)
 
 Free, responsive Magazine template containing many types of magazine newsfeeds and components designed for presentation huge amount of news. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
 
